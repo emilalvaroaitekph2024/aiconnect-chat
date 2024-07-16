@@ -14,7 +14,7 @@ This project is a replica of the Telegram messaging application, created as part
 
 ## Demo
 
-Check out the live demo of the project [here](https://telegram-ui-clone.vercel.app/).
+Check out the live demo of the project [here](https://telegram-ui-clone-one.vercel.app/).
 
 ## Features
 
