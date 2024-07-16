@@ -26,7 +26,7 @@ Check out the live demo of the project [here](https://telegram-ui-clone-one.verc
 
 ## Technologies Used
 
-- React + Vite (tempelate)
+- React + Vite (template)
 - ReactJS
 - Bootstrap and Bootstrap Icons
 - React Router DOM
